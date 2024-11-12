@@ -1,0 +1,12 @@
+{
+  "name": "tetra",
+  "version": "1.0.0",
+  "description": "Simple, clean, forums site like redit!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
